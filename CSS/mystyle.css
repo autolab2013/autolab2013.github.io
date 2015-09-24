@@ -1,0 +1,33 @@
+.team_1{ 
+		display:inline-block;
+		align:center;
+		padding:50px;
+		margin-left:40px;
+	   } 
+.team_1 img{
+		width: 300px;
+		height: 200px;
+	   }
+
+.team_2{
+	 	display:inline-block;
+		align:center;
+		padding:50px;
+		margin-left:200px;
+}
+
+.team_2 img{
+		width:300px;
+		height: 200px;
+}
+
+#menu{
+	text-align:center;
+}
+li{
+	margin-left:10px;
+	display:inline-block;
+	padding:20px;
+
+
+}
